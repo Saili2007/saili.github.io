@@ -1,0 +1,55 @@
+body {
+  background-color: white;
+}
+
+
+.saili1 {
+  background-color:powderblue;
+}
+
+.saili {
+  color:black;
+  height: 100px;
+  display: flex ;
+  justify-content: center;
+  align-items: center;
+  font-size:44px; 
+  align-self: center;
+}
+.li {
+  list-style-type:none;
+  padding:20px; 
+  margin:5px;
+}
+
+.li:hover {
+background-color: aliceblue;
+transition:cubic-bezier(0.075, 0.82, 0.165, 1);
+border-radius: 8px;
+}
+
+.saili3 {
+  background-color:powderblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top:1%;
+}
+
+.poto {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.poto1 {
+  width:30%;
+  height:100%;
+}
+
+.akun {
+  color:black;
+  background-color:white;
+  text-decoration: none;
+  display: flex;
+}
